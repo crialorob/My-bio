@@ -4,7 +4,7 @@ Throughout my career, I have gained vast experience working in customer success,
 
 I strongly advocate for analysing and keeping track of any business activity's environmental and digital footprint and leveraging this data to implement long-term planning processes to protect the environment, expand economic opportunities and meet social needs altogether.
 
-I am currently enrolled in an online Data Analytics Career Accelerator to expand my Analytycal skills. I recently completed the first course of this program, and I am confidently able to:
+I am currently enrolled in an online Data Analytics Career Accelerator to expand my Analytical skills. I recently completed the first course of this program, and I am confidently able to:
 
 · Identify, source and perform basic cleansing on data from various, relevant sources to support required analysis processes.
 · Conduct exploratory and descriptive analytics (using Excel/SQL).
